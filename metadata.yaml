@@ -1,0 +1,5 @@
+homepage: "https://www.bounce-commerce.de"
+documentation: "https://github.com/bounce-commerce/Bounce-Commerce-Integration/blob/main/README.md"
+versions:
+  - sha: XXX
+    changeNotes: Initial release.
