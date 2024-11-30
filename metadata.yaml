@@ -1,5 +1,5 @@
 homepage: "https://www.bounce-commerce.de"
 documentation: "https://github.com/bounce-commerce/Bounce-Commerce-Integration/blob/main/README.md"
 versions:
-  - sha: XXX
+  - sha: d279edbffe7fb77f86cbc4dffb3b1fbb80a45c85
     changeNotes: Initial release.
