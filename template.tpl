@@ -14,6 +14,7 @@ ___INFO___
   "version": 1,
   "securityGroups": [],
   "displayName": "Bounce Commerce Integration",
+  "categories": ["AFFILIATE_MARKETING", "ADVERTISING", "MARKETING"],
   "brand": {
     "id": "brand_dummy",
     "displayName": "",
