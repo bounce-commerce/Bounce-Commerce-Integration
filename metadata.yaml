@@ -1,5 +1,5 @@
 homepage: "https://www.bounce-commerce.de"
 documentation: "https://github.com/bounce-commerce/Bounce-Commerce-Integration/blob/main/README.md"
 versions:
-  - sha: 978468ea2fb618294bd3c0743ebbd71ee2c3f8ad
-    changeNotes: Initial release.
+  - sha: 955ba2eb90e23180483a284f73476fc23da6db97
+    changeNotes: Add categories to INFO section.
